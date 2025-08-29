@@ -19,4 +19,3 @@ def calcular_desconto(preco, cupom, tabela_descontos):
 
 valor_final = calcular_desconto(preco, cupom, descontos)
 print(f"{valor_final:.2f}")
-
